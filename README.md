@@ -1,0 +1,2 @@
+# password
+'''In this python programm, a password value is set to "Progr@mmer", and the programm ask the user to input the password, if the user input password matches to the saved password , then it displays, "Welcome to the system", otherwise it displays "try again" and if the user enters wrong password 3 times continuously then it displays, "Your account is being blocked for 24hrs and the program ends" '''
